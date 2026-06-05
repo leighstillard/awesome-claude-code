@@ -17,7 +17,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A selectively curated list of skills, agents, plugins, hooks, and other amazing tools for enhancing your [Claude Code](https://docs.anthropic.com/en/docs/claude-code) workflow.
+> Reverted to the previous state for visibility - A selectively curated list of skills, agents, plugins, hooks, and other amazing tools for enhancing your [Claude Code](https://docs.anthropic.com/en/docs/claude-code) workflow.
 
 <div align="center">
 
